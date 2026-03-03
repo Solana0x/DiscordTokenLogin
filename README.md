@@ -5,6 +5,8 @@ DISCORD TOKEN LOGIN
 
 SCRIPT:
 -------
+
+```
 let token = "YOUR_TOKEN_HERE";
 function login(token) {
     setInterval(() => {
@@ -15,6 +17,8 @@ function login(token) {
     }, 2500);
 }
 login(token);
+
+```
 
 QUICK VERSION:
 --------------
